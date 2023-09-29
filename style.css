@@ -88,7 +88,7 @@ section {
   align-items: center;
   padding: 0 9%;
   background: #f0f0f0; /* Fallback background color */
-  background: url('/images/home.jpg') no-repeat;
+  background: url('/images/home-removebg-preview.png') no-repeat;
   background-size: cover;
   background-position: center;
 }
